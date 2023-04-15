@@ -1,4 +1,4 @@
-import ErrorRepository from './error';
+import ErrorRepository from '../error';
 
 describe('ErrorRepository', () => {
     const errRep = new ErrorRepository();
